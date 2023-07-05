@@ -1,4 +1,8 @@
-Note: Please, do not remove this repository
+## Please, do not remove this repository
+
+Our team developed a pipeline that automates the Android app building process. Our app has a feature that enables it to run in the background, but unfortunately, the package we were using for this function is no longer being maintained. As a result, after the release of Android version 12, we would have had to manually modify one line of the code to ensure compatibility with newer app versions. To avoid this inconvenience, we addressed the issue by using this fork with an updated version of the package to build our app.
+
+This is a known issue, as you can see here: https://github.com/katzer/cordova-plugin-background-mode/issues/576, https://github.com/katzer/cordova-plugin-background-mode/pull/584
 
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
