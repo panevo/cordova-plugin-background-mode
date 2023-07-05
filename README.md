@@ -1,3 +1,4 @@
+Note: Please, do not remove this repository
 
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
